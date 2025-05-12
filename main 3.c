@@ -19,7 +19,7 @@ struct hip{
 };
 
 struct proc{//per gli host
-	char nome[20];
+    char nome[20];
     int ip[4];
     int sub[4];
     int gat[4];
